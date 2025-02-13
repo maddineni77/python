@@ -1,0 +1,25 @@
+types of server 
+web server
+data base server
+ftp server
+email server
+DNS server
+proxy servers
+in html
+start att
+ direction attribute
+hidden attribute
+accept att 
+contenteditable true false 
+loadinglazy 
+subscript
+abpr
+delete tag
+address tag
+em emphasis tag
+opt tag
+con tag
+
+
+
+
